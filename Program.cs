@@ -6,7 +6,6 @@ namespace algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             int [] items = {4,54,5,7,4};
             Console.WriteLine(LinearSearch(items, 4));
         }
