@@ -1,0 +1,16 @@
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.csproj.AssemblyReference.cache
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.GeneratedMSBuildEditorConfig.editorconfig
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.AssemblyInfoInputs.cache
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.AssemblyInfo.cs
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.csproj.CoreCompileInputs.cache
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\bin\Debug\net5.0\algorithms.exe
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\bin\Debug\net5.0\algorithms.deps.json
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\bin\Debug\net5.0\algorithms.runtimeconfig.json
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\bin\Debug\net5.0\algorithms.runtimeconfig.dev.json
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\bin\Debug\net5.0\algorithms.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\bin\Debug\net5.0\ref\algorithms.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\bin\Debug\net5.0\algorithms.pdb
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\ref\algorithms.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.pdb
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\algorithms\obj\Debug\net5.0\algorithms.genruntimeconfig.cache
