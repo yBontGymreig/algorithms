@@ -68,7 +68,7 @@ namespace algorithms
         {
             for (int pass = 1; pass <= items.Length-1; pass++)
             {
-                // on each pass, iterate through items, stopping one position earlier on each pass
+                //on each pass, iterate through items, stopping one position earlier on each pass
                 for (int i = 0;  i < items.Length-1; i++)
                 {
                     //if pair of neighbouring items are out of order
